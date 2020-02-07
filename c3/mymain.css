@@ -1,0 +1,22 @@
+html{
+	font-family: sans-serif ;
+}
+body{
+	background:  #eeeded;
+}
+#container{
+	padding: 0 4em;
+}
+#brand_youtube{
+	color: #c22227;
+}
+#brand_playlist{
+	color: #95989c;
+}
+#brand_analyzer{
+	color: #515357;
+}
+input[type=submit]{
+	font-weight:bold;
+    width: 8em;  height: 2em;
+}
